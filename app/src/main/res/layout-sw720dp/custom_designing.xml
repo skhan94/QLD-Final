@@ -1,0 +1,421 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dex="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/style_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/create_logo_bg"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:id="@+id/global_seperator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|center"
+        android:background="@drawable/super_header1">
+
+
+        <ImageView
+            android:id="@+id/create_logo_home"
+            android:layout_width="wrap_content"
+            android:layout_height="107dp"
+            android:layout_gravity="left"
+            android:src="@drawable/create_logo_home" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="107dp"
+            android:layout_gravity="center"
+            android:src="@drawable/create_logo_header" />
+
+        <ImageView
+            android:id="@+id/create_logo_save"
+            android:layout_width="wrap_content"
+            android:layout_height="107dp"
+            android:layout_gravity="right"
+            android:src="@drawable/create_logo_save" />
+
+
+        <ImageView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|center"
+            android:layout_marginTop="140dp"
+            android:background="@drawable/global_seperator"
+            android:contentDescription="@string/app_name" />
+
+    </FrameLayout>
+
+
+
+    <FrameLayout
+        android:id="@+id/layout_complete"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/hlvSimpleList"
+        android:layout_below="@+id/global_seperator">
+
+
+        <FrameLayout
+            android:id="@+id/layout_layers"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <FrameLayout
+                android:id="@+id/layout_layers_freehand"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" >
+
+
+                <include
+                    layout="@layout/layers"
+                    android:layout_width="fill_parent"
+                    android:layout_height="538dp"
+
+                    android:layout_above="@+id/resizebar"/>
+
+
+
+
+            </FrameLayout>
+
+        </FrameLayout>
+
+
+
+    </FrameLayout>
+
+
+    <FrameLayout
+        android:id="@+id/grid_frame"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/hlvSimpleList"
+        android:layout_below="@+id/global_seperator"
+        android:background="@drawable/create_logo_grid"
+        android:alpha="0.5"
+        android:visibility="gone"></FrameLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/resizebar"
+        android:layout_above="@+id/color_gradient1"
+        android:background="@color/grid_header_bg"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/resize_icon"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:src="@drawable/resize_icon" />
+
+        <SeekBar
+            android:id="@+id/angle_seek_bar_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/resize_icon"
+            android:layout_toLeftOf="@+id/bucket"
+            android:max="150"
+
+            android:layout_marginLeft="5dp"
+            android:maxHeight="4dp"
+            android:minHeight="4dp"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:progressDrawable="@drawable/create_logo_seekbar"
+            android:thumb="@drawable/create_logo_btn" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/bucket"
+            android:layout_toLeftOf="@+id/stroke"
+            android:src="@drawable/bucket"
+            android:layout_alignBottom="@+id/stroke"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="5dp"
+            />
+        <!-- android:layout_marginRight="10dp"
+
+         android:layout_marginLeft="5dp"-->
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/stroke"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/stoke"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="1dp"
+
+            />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/frame_second"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/global_seperator"
+        android:background="@color/grid_header_bg">
+
+
+        <ImageView
+            android:id="@+id/create_logo_layer_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/create_logo_layer_icon_1" />
+
+        <ImageView
+            android:id="@+id/create_logo_rotate_omg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:layout_toRightOf="@+id/create_logo_layer_icon"
+            android:padding="@dimen/dimen_small"
+            android:src="@drawable/create_logo_rotate_icon"
+            android:text="0"
+            android:textColor="@color/secondary" />
+
+        <SeekBar
+            android:id="@+id/angle_seek_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_toLeftOf="@+id/create_logo_grid_icon"
+            android:layout_toRightOf="@+id/create_logo_rotate_omg"
+            android:max="360"
+            android:maxHeight="4dp"
+            android:minHeight="4dp"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:progressDrawable="@drawable/create_logo_seekbar"
+            android:thumb="@drawable/create_logo_btn" />
+
+
+        <CheckBox
+            android:id="@+id/create_logo_grid_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/check_box_grid"
+            android:button="@null" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layers_eraser_frame"
+        android:layout_width="45dp"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/frame_second">
+
+        <!-- Working Ok in our Case But CheckBox is Good Choicce here -->
+        <!--<ImageView
+            android:id="@+id/eraser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/erase"
+            android:text="Button" />-->
+        <!--android:background="@drawable/check_box_eraser"-->
+            <ImageView
+                android:id="@+id/eraser"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_centerHorizontal="true"
+                android:button="@null"
+                android:checked="false"
+
+                android:scaleType="centerInside"
+                android:src="@drawable/erase" />
+
+            <LinearLayout
+                android:id="@+id/layers_eraser_more"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/eraser"
+                android:layout_centerHorizontal="true"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/eraserall"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:layout_below="@+id/eraser"
+                    android:layout_gravity="center"
+                    android:background="#fff"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/erase_all"
+                    android:visibility="gone" />
+
+                <ImageView
+                    android:id="@+id/dropdown_up"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/eraser_all"
+                    android:src="@drawable/dropdown_down" />
+
+            </LinearLayout>
+        <!--dslv:drag_handle_id="@+id/layer_delete"-->
+    </RelativeLayout>
+
+
+    <FrameLayout
+        android:id="@+id/layers_side_frame"
+        android:layout_width="170dp"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/hlvSimpleList"
+        android:layout_below="@+id/frame_second"
+        android:background="@color/layer_bg"
+        android:visibility="invisible">
+
+        <com.mobeta.android.dslv.DragSortListView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:dslv="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/dragSortListView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:divider="@null"
+            dslv:drag_enabled="true"
+            dslv:drag_scroll_start="0.33"
+            dslv:drag_start_mode="onDown"
+            dslv:float_alpha="0.6"
+            dslv:float_background_color="@android:color/background_light"
+            dslv:remove_enabled="false"
+            dslv:slide_shuffle_speed="0.3"
+
+            />
+        <!--dslv:drag_handle_id="@+id/layer_delete"-->
+    </FrameLayout>
+
+    <com.fsd.logodesign.methods.HorizontalListView
+        android:id="@+id/hlvSimpleList"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_above="@+id/layout_frames" />
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/color_gradient1"
+        android:layout_above="@+id/layout_frames">
+
+        <View
+            android:id="@+id/color_gradient"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/color_gradient"/>
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recycler_view"
+            android:layout_toRightOf="@+id/color_gradient"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="#FFE5E5E5"
+            android:scrollbarStyle="insideOverlay" />
+
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/dummyView"
+        android:layout_width="1dp"
+        android:layout_height="1dp"
+        android:layout_centerInParent="true" />
+
+
+    <FrameLayout
+        android:id="@+id/layout_frames"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bottom_frame">
+
+        <include
+            android:id="@+id/all_markers_layout"
+            layout="@layout/all_markers_layout"
+            android:layout_width="match_parent"
+            android:layout_height="100dp" />
+
+        <include
+            android:id="@+id/all_gallery_layout"
+            layout="@layout/all_gallery_layout"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:visibility="gone" />
+
+        <include
+            android:id="@+id/all_shapes_layout"
+            layout="@layout/all_shapes_layout"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:visibility="gone" />
+
+        <include
+            android:id="@+id/all_fonts_layout"
+            layout="@layout/all_font_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:visibility="gone" />
+
+    </FrameLayout>
+
+
+    <LinearLayout
+        android:id="@+id/bottom_frame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+
+        <!--<RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">-->
+
+        <CheckBox
+            android:id="@+id/checkbox_brush"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/check_box_brush"
+            android:button="@null"
+            android:checked="true" />
+
+        <CheckBox
+            android:id="@+id/checkbox_gallery"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/check_box_image"
+            android:button="@null"
+            android:checked="false" />
+
+        <CheckBox
+            android:id="@+id/checkbox_shape"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/check_box_shape"
+            android:button="@null"
+            android:checked="false" />
+
+        <CheckBox
+            android:id="@+id/checkbox_font"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/check_box_text"
+            android:button="@null"
+            android:checked="false" />
+        <!--</RadioGroup>-->
+    </LinearLayout>
+
+
+</RelativeLayout>

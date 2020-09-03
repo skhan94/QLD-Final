@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusableInTouchMode="true"
+    android:background="@drawable/global_bg_1"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:weightSum="2" >
+
+        <View
+            android:id="@+id/focus_thief"
+            android:layout_width="1dp"
+            android:layout_height="1dp"
+            android:focusable="true"
+            android:focusableInTouchMode="true" />
+
+        <EditText
+            android:id="@+id/Add_Text_edit_text"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/global_textview"
+            android:ellipsize="start"
+            android:ems="10"
+            android:gravity="center"
+            android:imeOptions="actionDone"
+            android:inputType="textCapSentences"
+            android:hint="@string/hint_comp_name"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:singleLine="true"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:gravity="center_horizontal"
+            android:background="@drawable/name_screen_seeker_bg_trans"
+            android:weightSum="2" >
+
+            <com.fsd.logodesign.methods.SlideButton
+                android:id="@+id/pager_name_slide_button"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/name_screen_seeker_bg"
+                android:clickable="false"
+                android:max="100"
+
+                android:progress="7"
+
+
+                android:progressDrawable="@android:color/transparent"
+                android:thumb="@drawable/name_screen_seeker_thumb"
+                android:thumbOffset="10dp" />
+        </LinearLayout>
+    </LinearLayout>
+    <FrameLayout android:id="@+id/imagesetter"
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center"/>
+</FrameLayout>

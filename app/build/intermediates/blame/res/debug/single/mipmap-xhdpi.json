@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\green_thumb_pressed.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.pes.materialcolorpicker\\library\\1.0.2\\res\\mipmap-xhdpi\\green_thumb_pressed.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\green_thumb_default.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.pes.materialcolorpicker\\library\\1.0.2\\res\\mipmap-xhdpi\\green_thumb_default.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\blue_thumb_pressed.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.pes.materialcolorpicker\\library\\1.0.2\\res\\mipmap-xhdpi\\blue_thumb_pressed.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\red_thumb_default.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.pes.materialcolorpicker\\library\\1.0.2\\res\\mipmap-xhdpi\\red_thumb_default.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\red_thumb_pressed.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.pes.materialcolorpicker\\library\\1.0.2\\res\\mipmap-xhdpi\\red_thumb_pressed.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\blue_thumb_default.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.pes.materialcolorpicker\\library\\1.0.2\\res\\mipmap-xhdpi\\blue_thumb_default.png"
+    }
+]

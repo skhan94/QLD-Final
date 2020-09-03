@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "321457552330",
+    "firebase_url": "https://admob-app-id-2629164522.firebaseio.com",
+    "project_id": "admob-app-id-2629164522",
+    "storage_bucket": "admob-app-id-2629164522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321457552330:android:85451eba87c9c5ec",
+        "android_client_info": {
+          "package_name": "com.fsd.logodesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321457552330-gn4qf0lllqij73pr4f0pui3nva17a6ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQttsWG_5YzfEU-Q2VNCPWKeEm5gDlIJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

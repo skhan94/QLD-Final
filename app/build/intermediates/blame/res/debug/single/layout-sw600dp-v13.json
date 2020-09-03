@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\all_font_layout.xml",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\layout-sw600dp\\all_font_layout.xml"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\icon_gallery_item.xml",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\layout-sw600dp\\icon_gallery_item.xml"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\pager_name_screen.xml",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\layout-sw600dp\\pager_name_screen.xml"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_svg_view_pager.xml",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\layout-sw600dp\\activity_svg_view_pager.xml"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\all_markers_layout.xml",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\layout-sw600dp\\all_markers_layout.xml"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\custom_designing.xml",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\layout-sw600dp\\custom_designing.xml"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\color_layout.xml",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\layout-sw600dp\\color_layout.xml"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\pager_complete_screen.xml",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\layout-sw600dp\\pager_complete_screen.xml"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\all_gallery_layout.xml",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\layout-sw600dp\\all_gallery_layout.xml"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\all_shapes_layout.xml",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\layout-sw600dp\\all_shapes_layout.xml"
+    }
+]

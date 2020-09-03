@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\shape_5.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\shape_5.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\eye.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\eye.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\layer_brush.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\layer_brush.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\brushes_thick_brush.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\brushes_thick_brush.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\contact_spinner_dorpdown.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\contact_spinner_dorpdown.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\contact_basic_details.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\contact_basic_details.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\create_log_brush_btn.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\create_log_brush_btn.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\main_menu.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\main_menu.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\vflip.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\vflip.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\global_message.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\global_message.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\purchase1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\purchase1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\shape_4.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\shape_4.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\business_card_3.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\business_card_3.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\check.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\check.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\global_header.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\global_header.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\global_color_icon_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\global_color_icon_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\quick_lg_bt.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\quick_lg_bt.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\global_contact_icon_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\global_contact_icon_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\create_logo_rotate_icon.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\create_logo_rotate_icon.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\global_choose_icon_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\global_choose_icon_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\shape_3.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\shape_3.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\create_logo_grid_icon_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\create_logo_grid_icon_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\bucket.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\bucket.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\purchase2.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\purchase2.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\name_screen_seeker_bg.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\name_screen_seeker_bg.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\downloadjpg.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\downloadjpg.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\create_log_img_btn_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\create_log_img_btn_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\name_screen_seeker_thumb.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\name_screen_seeker_thumb.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\create_logo_grid_icon.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\create_logo_grid_icon.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\popup.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\popup.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\create_log_shape_btn_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\create_log_shape_btn_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\name_screen_seeker_bg_trans.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\name_screen_seeker_bg_trans.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\global_bg_3.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\global_bg_3.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\create_logo_btn.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\create_logo_btn.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\brushes_pen.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\brushes_pen.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\global_complete_icon_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\global_complete_icon_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\paypal_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\paypal_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\create_log_shape_btn.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\create_log_shape_btn.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\layer_logo.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\layer_logo.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\create_logo_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\create_logo_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\erase.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\erase.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\layer_shape.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\layer_shape.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\ic_launcher.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\global_bg_2.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\global_bg_2.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\logo_bg.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\logo_bg.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\order_header.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\order_header.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\create_logo_layer_icon.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\create_logo_layer_icon.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\contact_submit.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\contact_submit.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\btn.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\btn.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\brushes_cryon.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\brushes_cryon.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\erase_all.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\erase_all.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\global_header_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\global_header_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\add_img_icon.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\add_img_icon.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\global_bg_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\global_bg_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\order.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\order.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\vflip_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\vflip_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\create_logo_text_btn.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\create_logo_text_btn.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\create_logo_layer_icon_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\create_logo_layer_icon_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\global_font_icon_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\global_font_icon_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\contact_add_file_format.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\contact_add_file_format.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\dropdown_down.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\dropdown_down.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\global_add_icon_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\global_add_icon_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\contact_us_payment_option.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\contact_us_payment_option.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\preview_logo_unselected.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\preview_logo_unselected.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\contact_add_file_format1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\contact_add_file_format1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\send.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\send.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\shape_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\shape_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\layer_text.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\layer_text.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\super_header1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\super_header1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\eye_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\eye_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\create_logo_header.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\create_logo_header.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\contact_us.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\contact_us.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\color_gradient.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\color_gradient.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\create_logo_text_btn_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\create_logo_text_btn_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\global_textview.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\global_textview.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\layer_img.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\layer_img.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\global_check.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\global_check.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\brushes_brush.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\brushes_brush.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\quick_lg_bt_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\quick_lg_bt_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\layer_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\layer_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\layer.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\layer.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\dropdown_up.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\dropdown_up.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\create_logo.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\create_logo.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\create_log_img_btn.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\create_log_img_btn.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\name_screen_text.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\name_screen_text.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\global_seperator.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\global_seperator.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\cancel_red.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\cancel_red.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\create_logo_save.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\create_logo_save.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\create_log_brush_btn_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\create_log_brush_btn_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\custom_txt_title.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\custom_txt_title.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\preview_logo_selected.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\preview_logo_selected.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\downloadjpg2.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\downloadjpg2.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\brushes_pencil.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\brushes_pencil.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\create_logo_home.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\create_logo_home.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\preview_logo_bg.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\preview_logo_bg.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\stoke.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\stoke.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\cancel.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\cancel.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\splash_screen.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\splash_screen.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\shape_2.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\shape_2.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi\\create_logo_grid.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-large-mdpi\\create_logo_grid.png"
+    }
+]

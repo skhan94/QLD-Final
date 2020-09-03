@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@color/create_logo_bg"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/marker_1"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="100dp"
+            android:gravity="center"
+            android:src="@drawable/brushes_brush"
+             />
+
+        <ImageView
+            android:id="@+id/marker_2"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="100dp"
+            android:gravity="center"
+            android:src="@drawable/brushes_cryon"
+            />
+
+        <ImageView
+            android:id="@+id/marker_3"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="100dp"
+            android:gravity="center"
+            android:src="@drawable/brushes_pen"
+            />
+
+        <ImageView
+            android:id="@+id/marker_4"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="100dp"
+            android:gravity="center"
+            android:src="@drawable/brushes_pencil"
+            />
+
+        <ImageView
+            android:id="@+id/marker_5"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="100dp"
+            android:gravity="center"
+            android:src="@drawable/brushes_thick_brush"
+            />
+
+
+</LinearLayout>

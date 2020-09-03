@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusableInTouchMode="true"
+    >
+-->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/global_bg_3"
+
+    >
+
+    <Button
+        android:id="@+id/mainmenu_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/dummy_view"
+
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/create_logo_drawable" />
+
+    <View
+        android:id="@+id/dummy_view"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_centerInParent="true" />
+
+    <Button
+        android:id="@+id/mainmenu_createLogo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dummy_view"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-12dp"
+        android:background="@drawable/quick_logo_drawable" />
+
+</RelativeLayout><!--</FrameLayout>-->

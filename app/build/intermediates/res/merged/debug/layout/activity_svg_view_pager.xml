@@ -1,0 +1,67 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f1f2f2"
+    tools:context=".SVG_View_Pager" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <!--  android:weightSum="100" -->
+
+        <com.fsd.logodesign.adapters.SmoothViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <!--  android:layout_weight="99" -->
+
+            <com.fsd.logodesign.methods.CustomFontPagerTitleStrip
+                android:id="@+id/pager_title_strip"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top"
+                android:background="@drawable/global_header_1"
+                android:paddingBottom="6dp"
+                android:textColor="#000000" />
+        </com.fsd.logodesign.adapters.SmoothViewPager>
+
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/super_header1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|center"
+        android:background="@drawable/super_header1"
+        android:contentDescription="@string/app_name" />
+    <ImageView
+        android:id="@+id/contact_us_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="asdasdsa"
+        android:layout_marginRight="5dp"
+        android:layout_gravity="right"
+        android:textSize="22sp"
+        android:background="@drawable/contact_us"
+        />
+
+    <View
+        android:id="@+id/contact_us_view1"
+        android:layout_gravity="right"
+        android:layout_width="95dp"
+        android:layout_height="45dp"
+        android:layout_marginRight="10dp"
+        />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|center"
+        android:layout_marginTop="45dp"
+        android:background="@drawable/global_seperator"
+        android:contentDescription="@string/app_name" />
+
+</FrameLayout>

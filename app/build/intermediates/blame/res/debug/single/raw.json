@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\raw\\fontimage.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\raw\\fontimage.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\raw\\circle.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\raw\\circle.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\raw\\square.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\raw\\square.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\raw\\star.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\raw\\star.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\raw\\square11.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\raw\\square11.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hex.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\raw\\hex.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\raw\\triangle_xxx.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\raw\\triangle_xxx.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\raw\\squarenew.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\raw\\squarenew.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\raw\\triangle.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\raw\\triangle.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\raw\\rectangle.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\raw\\rectangle.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ic_launcher.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\raw\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\raw\\square_xxx.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\raw\\square_xxx.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hex_xxx.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\raw\\hex_xxx.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\raw\\circle_xxx.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\raw\\circle_xxx.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\raw\\star_xxx.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\raw\\star_xxx.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\raw\\triangle11.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\raw\\triangle11.png"
+    }
+]

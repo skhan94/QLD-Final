@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\blue_thumb_default.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.pes.materialcolorpicker\\library\\1.0.2\\res\\mipmap-xxhdpi\\blue_thumb_default.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\green_thumb_default.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.pes.materialcolorpicker\\library\\1.0.2\\res\\mipmap-xxhdpi\\green_thumb_default.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\blue_thumb_pressed.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.pes.materialcolorpicker\\library\\1.0.2\\res\\mipmap-xxhdpi\\blue_thumb_pressed.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\red_thumb_pressed.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.pes.materialcolorpicker\\library\\1.0.2\\res\\mipmap-xxhdpi\\red_thumb_pressed.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\green_thumb_pressed.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.pes.materialcolorpicker\\library\\1.0.2\\res\\mipmap-xxhdpi\\green_thumb_pressed.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\red_thumb_default.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.pes.materialcolorpicker\\library\\1.0.2\\res\\mipmap-xxhdpi\\red_thumb_default.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

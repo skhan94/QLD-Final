@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="540px" height="540px" viewBox="0 0 540 540" enable-background="new 0 0 540 540" xml:space="preserve">
+<g>
+	<g>
+		
+			<radialGradient id="SVGID_1_" cx="303.4397" cy="5911.8047" r="160.4388" gradientTransform="matrix(1 0 0 0.1 -33.4395 -167.2626)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#000000;stop-opacity:0.4"/>
+			<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		</radialGradient>
+		<ellipse fill="url(#SVGID_1_)" cx="270" cy="423.918" rx="225" ry="29.162"/>
+	</g>
+	<g>
+		<path fill="#B2D04D" d="M264.051,197.908l77.583,85.323l68.142,75.076h8.715c9.475,0,18.054-5.59,21.881-14.24
+			c3.831-8.668,2.19-18.773-4.177-25.789L280.656,145.025c-4.708-5.167-11.477-8.019-18.419-7.818
+			c-6.987,0.211-13.536,3.464-17.921,8.902L104.729,319.367c-5.779,7.174-6.929,17.027-2.947,25.336
+			c3.978,8.313,12.377,13.6,21.586,13.6h10.179L264.051,197.908z"/>
+		<polygon fill="#899B3D" points="367.049,310.363 172.554,310.363 133.545,358.307 409.774,358.307 		"/>
+		<polygon fill="#AF1B50" points="366.621,134.778 404.078,86.921 132.63,86.921 175.76,134.778 		"/>
+		<path fill="#F02062" d="M438.219,100.521c-3.977-8.312-12.371-13.601-21.581-13.601h-12.561l-37.456,47.857l-90.673,112.541
+			l-85.598-94.139l24.74,27.455l-24.74-27.455l-14.743-18.403h0.151l-43.13-47.857h-11.12c-9.474,0-18.05,5.587-21.883,14.249
+			c-3.831,8.665-2.193,18.771,4.177,25.779L259.34,300.199c4.709,5.174,11.479,8.018,18.423,7.818
+			c6.987-0.203,13.529-3.461,17.92-8.898l139.586-173.253C441.056,118.688,442.198,108.833,438.219,100.521z"/>
+		<polygon fill="#B2D04D" points="334.764,275.676 366.407,241.526 303.835,170.519 269.37,203.757 		"/>
+	</g>
+</g>
+</svg>

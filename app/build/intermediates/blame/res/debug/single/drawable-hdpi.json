@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\global_color_icon.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\global_color_icon.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\color_gradient.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\color_gradient.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\blue_thumb_pressed.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.pes.materialcolorpicker\\library\\1.0.2\\res\\drawable-hdpi\\blue_thumb_pressed.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\global_bg_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\global_bg_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\global_check.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\global_check.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\red_thumb_default.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.pes.materialcolorpicker\\library\\1.0.2\\res\\drawable-hdpi\\red_thumb_default.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vflip_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\vflip_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\send.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\send.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\global_color_icon_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\global_color_icon_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\purchase2.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\purchase2.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\preview_logo_selected.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\preview_logo_selected.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\order_header.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\order_header.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\global_seperator.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\global_seperator.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\resize_icon.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\resize_icon.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\purchase1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\purchase1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\contact_add_file_format1.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\contact_add_file_format1.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bucket.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\bucket.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\btn.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\popup.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\popup.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\blue_thumb_default.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.pes.materialcolorpicker\\library\\1.0.2\\res\\drawable-hdpi\\blue_thumb_default.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\global_add_icon_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\global_add_icon_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\global_complete_icon_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\global_complete_icon_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_bg.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\logo_bg.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\global_header.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\global_header.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\contact_spinner_dorpdown.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\contact_spinner_dorpdown.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_menu.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\main_menu.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\downloadjpg2.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\downloadjpg2.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\global_font_icon_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\global_font_icon_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stoke.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\stoke.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\order.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\order.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\downloadjpg.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\downloadjpg.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\global_contact_icon_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\global_contact_icon_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\contact_basic_details.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\contact_basic_details.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vflip.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\vflip.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\green_thumb_pressed.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.pes.materialcolorpicker\\library\\1.0.2\\res\\drawable-hdpi\\green_thumb_pressed.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\name_screen_seeker_thumb.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\name_screen_seeker_thumb.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\paypal_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\paypal_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\name_screen_seeker_bg.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\name_screen_seeker_bg.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\splash_screen.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\splash_screen.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\name_screen_text.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\name_screen_text.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\name_screen_seeker_bg_trans.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\name_screen_seeker_bg_trans.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\super_header1.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\super_header1.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\global_choose_icon_1.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\global_choose_icon_1.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\global_message.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\global_message.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\contact_submit.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\contact_submit.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\global_header_1.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\global_header_1.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\global_textview.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\global_textview.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_focused_holo.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_text_cursor_mtrl_alpha.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\contact_add_file_format.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\contact_add_file_format.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\green_thumb_default.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.pes.materialcolorpicker\\library\\1.0.2\\res\\drawable-hdpi\\green_thumb_default.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\global_bg_2.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\global_bg_2.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\red_thumb_pressed.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.pes.materialcolorpicker\\library\\1.0.2\\res\\drawable-hdpi\\red_thumb_pressed.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\preview_logo_unselected.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\preview_logo_unselected.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\business_card_3.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\business_card_3.9.png"
+    },
+    {
+        "merged": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\preview_logo_bg.9.png",
+        "source": "D:\\svn\\QLD+\\trunk\\QLD+\\app\\src\\main\\res\\drawable-hdpi\\preview_logo_bg.9.png"
+    }
+]

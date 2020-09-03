@@ -1,0 +1,20 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/global_bg_2"
+    tools:context=".Main_Menu" >
+
+    <GridView
+        android:id="@+id/font_gridview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fastScrollEnabled="false"
+        android:horizontalSpacing="10dp"
+        android:numColumns="2"
+        android:listSelector="#00000000"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="10dp" >
+    </GridView>
+
+</FrameLayout>

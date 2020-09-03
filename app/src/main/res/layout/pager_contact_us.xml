@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/global_bg_2"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|top"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/basic_details"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/contact_basic_details" />
+
+                <EditText
+                    android:id="@+id/contact_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/global_textview"
+                    android:ellipsize="start"
+                    android:ems="10"
+                    android:gravity="left|center"
+                    android:hint="@string/hint_enter_full_name"
+                    android:inputType="textPersonName|textCapWords"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:singleLine="true"
+                    android:textColor="#000000"
+                    android:textSize="18sp" />
+
+                <EditText
+                    android:id="@+id/contact_number"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/global_textview"
+                    android:ellipsize="start"
+                    android:ems="10"
+                    android:gravity="left|center"
+                    android:hint="@string/hint_enter_contact_number"
+                    android:inputType="phone"
+                    android:maxLength="13"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:singleLine="true"
+                    android:textColor="#000000"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="Example: +12 Digits Number"
+                    android:textColor="#90000000" />
+
+                <EditText
+                    android:id="@+id/contact_email"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/global_textview"
+                    android:ellipsize="start"
+                    android:ems="10"
+                    android:gravity="left|center"
+                    android:hint="@string/hint_enter_email"
+                    android:inputType="textEmailAddress"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:singleLine="true"
+                    android:textColor="#000000"
+                    android:textSize="18sp" />
+
+                <EditText
+                    android:id="@+id/contact_message"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="15dp"
+                    android:background="@drawable/global_message"
+                    android:ellipsize="start"
+                    android:hint="@string/hint_enter_Message"
+                    android:gravity="top|center_horizontal"
+                    android:inputType="textMultiLine|textCapSentences"
+                    android:paddingBottom="5dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:paddingTop="13dp"
+
+                    android:scrollbars="vertical"
+                     />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/contact_add_file_format" />
+
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp">
+
+                    <com.fsd.logodesign.methods.MultiSpinner
+                        android:id="@+id/multi_Spinner"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/global_textview"
+                        android:singleLine="true" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center|right"
+                        android:layout_marginRight="20dp"
+                        android:background="@drawable/contact_spinner_dorpdown"
+                        android:contentDescription="@string/app_name" />
+                </FrameLayout>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@drawable/contact_us_payment_option"
+                    android:contentDescription="@string/app_name" />
+
+                <!--<FrameLayout
+                    android:visibility="gone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp">
+
+                    <Spinner
+                        android:id="@+id/method_payment_spinner"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/global_textview"
+                        android:singleLine="true" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center|right"
+                        android:layout_marginRight="20dp"
+                        android:background="@drawable/contact_spinner_dorpdown"
+                        android:contentDescription="@string/app_name" />
+
+
+                </FrameLayout>-->
+
+                <RelativeLayout
+                    android:layout_marginTop="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+
+
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/paypal_1"/>
+
+<!--
+                    <CheckBox
+                        android:id="@+id/check_paypal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:background="@null"
+                        android:button="@drawable/check_paypal"
+                        android:checked="false" />
+
+                    <CheckBox
+                        android:layout_marginTop="10dp"
+                        android:layout_below="@+id/check_paypal"
+                        android:id="@+id/check_creditcard"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:background="@null"
+                        android:button="@drawable/check_creditcard"
+                        android:checked="false" />-->
+                </RelativeLayout>
+
+                <Button
+                    android:id="@+id/sumbit_details"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/contact_submit" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
